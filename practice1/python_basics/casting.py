@@ -1,4 +1,4 @@
-x = int(3.9)
+x = int(3.7)
 y = float(5)
 z = str(100)
 
