@@ -1,5 +1,8 @@
-if 5 > 2:
+if 5 < 2:
     print("Five is greater than two!")
+elif 5>2:
+        print("Five is greater than two!")
+
 
 x = 10
 print(x)
