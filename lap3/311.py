@@ -14,3 +14,4 @@ p2 = Pair(x2, y2)
 
 result = p1.add(p2)
 print(f"Result: {result.a} {result.b}")
+

@@ -28,7 +28,6 @@ class Developer(Employee):
 class Intern(Employee):
     pass  
 
-
 data = input().split()
 role = data[0]
 name = data[1]

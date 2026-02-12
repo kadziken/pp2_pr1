@@ -41,3 +41,4 @@ else:
     res = a * b
 
 print(encode(res))
+

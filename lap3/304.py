@@ -9,3 +9,4 @@ class StringHandler:
 obj = StringHandler()
 obj.getString()
 obj.printString()
+

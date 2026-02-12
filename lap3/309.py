@@ -12,3 +12,4 @@ r = int(input())
 
 c = Circle(r)
 print(f"{c.area():.2f}")
+

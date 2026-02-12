@@ -15,3 +15,4 @@ class Student(Person):
 
 s1 = Student("Anna", "Smith", 2022)
 s1.welcome()
+

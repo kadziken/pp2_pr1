@@ -20,3 +20,4 @@ print(c1.area())  # 78.53975
 
 Circle.set_pi(3.14)
 print(c1.area())  # 78.5
+

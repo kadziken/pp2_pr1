@@ -32,3 +32,4 @@ class StudentAthlete(Student, Athlete):
 sa = StudentAthlete("Mike", "Olsen", 2019)
 sa.welcome()
 sa.run()
+

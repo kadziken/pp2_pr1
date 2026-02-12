@@ -15,3 +15,4 @@ class Rectangle(Shape):
 l, w = map(int, input().split())
 rect = Rectangle(l, w)
 print(rect.area())
+

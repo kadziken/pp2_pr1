@@ -19,3 +19,4 @@ balance, withdraw_amount = map(int, input().split())
 acc = Account("User", balance)
 
 print(acc.withdraw(withdraw_amount))
+

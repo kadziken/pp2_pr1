@@ -8,3 +8,4 @@ def person_info(**kwargs):
         print(f"{key}: {value}")
 
 person_info(name="Mike", age=20, city="Astana")
+

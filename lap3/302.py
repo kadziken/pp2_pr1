@@ -18,3 +18,4 @@ if isUsual(n):
     print("Yes")
 else:
     print("No")
+

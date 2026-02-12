@@ -10,3 +10,4 @@ def power(x, y=2):
 
 print(power(3))    # 9
 print(power(3, 3)) # 27
+

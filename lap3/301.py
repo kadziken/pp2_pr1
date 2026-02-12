@@ -6,3 +6,4 @@ for digit in n:
         break
 else:
     print("Valid")
+

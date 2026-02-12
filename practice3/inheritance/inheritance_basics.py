@@ -13,3 +13,4 @@ class Student(Person):
 
 s1 = Student("Mike", "Olsen")
 print(s1.full_name())  # Mike Olsen
+

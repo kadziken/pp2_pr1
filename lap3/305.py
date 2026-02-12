@@ -14,3 +14,4 @@ class Square(Shape):
 n = int(input())
 sq = Square(n)
 print(sq.area())
+

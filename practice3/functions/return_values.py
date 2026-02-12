@@ -13,3 +13,4 @@ def min_max(lst):
 numbers = [3, 7, 1, 9]
 minimum, maximum = min_max(numbers)
 print("Min:", minimum, "Max:", maximum)
+

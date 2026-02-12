@@ -19,3 +19,4 @@ for _ in range(q):
         arr = list(map(lambda a: abs(a), arr))
 
 print(*arr)
+

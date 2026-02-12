@@ -6,3 +6,4 @@ print(even)  # [2, 4, 6]
 names = ["Bob", "Alice", "Tom", "John"]
 long_names = list(filter(lambda n: len(n) > 3, names))
 print(long_names)
+

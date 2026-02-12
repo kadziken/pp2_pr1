@@ -30,3 +30,4 @@ p2 = Point(x3, y3)
 
 distance = p1.dist(p2)
 print(f"{distance:.2f}")
+

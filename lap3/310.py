@@ -17,3 +17,4 @@ gpa = float(data[1])
 
 s = Student(name, gpa)
 s.display()
+

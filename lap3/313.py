@@ -10,3 +10,4 @@ if primes:
     print(*primes)
 else:
     print("No primes")
+
