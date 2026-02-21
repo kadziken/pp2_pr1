@@ -12,11 +12,7 @@ class Athlete:
     def run(self):
         print(f"{self.firstname} is running!")
 
-class StudentAthlete(Student, Athlete):
-    pass
 
-sa = StudentAthlete("Mike", "Olsen", 2019)
-# sa.full_name() здесь не работает, потому что StudentAthlete не наследует Student
 # Нужно добавить наследование Student с __init__
 class Student(Person):
     def __init__(self, fname, lname, year):

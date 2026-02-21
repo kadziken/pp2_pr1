@@ -12,6 +12,6 @@ class Person:
 p1 = Person("John", "Doe")
 p2 = Person("Alice", "Smith")
 
-print(p1.full_name())  # John Doe
-print(p2.full_name())  # Alice Smith
+print(p1.full_name())  
+print(p2.full_name())  
 

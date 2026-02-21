@@ -1,5 +1,5 @@
 # Квадрат числа
-square = lambda x: x**2
+square = lambda x: print(hello, x)
 print(square(6))
 
 # Умножение двух чисел
