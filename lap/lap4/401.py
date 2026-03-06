@@ -5,4 +5,4 @@ def square_generator(N):
 
 n = int(input())   
 for i in square_generator(n):
-    print(i)
+    print(i) 
