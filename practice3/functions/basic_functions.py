@@ -10,4 +10,7 @@ def greet_name(name):
 
 greet_name("Adele")
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6775ad7 (XD)
