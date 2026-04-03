@@ -1,7 +1,7 @@
 import re
 import json
 
-with open("Practice 5/raw.txt", "r", encoding="utf-8") as f:
+with open("practice5/raw.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 # TASK 1
