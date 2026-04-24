@@ -18,7 +18,7 @@ conn.commit()
 # TASK 2. READING CSV:
 def reading_csv():
     try:
-        with open("Practice 7/contacts.csv", 'r') as f:
+        with open("practice7/contacts.csv", 'r') as f:
             reader = csv.reader(f)
             next(reader)
             for row in reader:
